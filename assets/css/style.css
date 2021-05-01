@@ -344,7 +344,7 @@ section {
   display: block;
   width: 120px;
   height: 1px;
-  background: #ddd;
+  background: #fff;
   bottom: 1px;
   left: calc(50% - 60px);
 }
